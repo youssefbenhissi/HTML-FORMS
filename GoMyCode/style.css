@@ -1,0 +1,68 @@
+body {
+    background-color: DodgerBlue;
+}
+
+#ADA {
+    margin-top: 70px;
+    margin-left: 150px;
+    color: White;
+    font-size: 20px;
+    font-family: "Times New Roman", Times, serif;
+    font-style: oblique;
+}
+
+#Students {
+    color: grey;
+    font-family: "Times New Roman", Times, serif;
+    background-color: none;
+    font-style: oblique;
+}
+
+div {
+    vertical-align: top;
+    display: inline-block;
+    width: 320px;
+    padding: 10px;
+    background-color: aqua;
+    margin: 0;
+}
+
+#image {
+    margin-left: 10px
+}
+
+#ta7et {
+    font-style: oblique;
+    color: darkslategrey;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 15px;
+}
+
+#box {
+    vertical-align: top;
+    display: inline-block;
+    margin-left: 80px;
+}
+
+#box-droite {
+    vertical-align: top;
+    display: inline-block;
+    margin-right: 320px;
+    width: 600px;
+    padding: 10px;
+    background-color: aquamarine;
+    height: 656px;
+    margin-left: -5px;
+}
+
+#boutton {
+    background-color: cadetblue;
+    width: 595px;
+    height: 35px;
+
+}
+
+#boutton:hover {
+    background-color: blue;
+    color: white;
+}
